@@ -5,7 +5,7 @@
 
 <h2 align="center">👋 Hi, I'm Krishnaraj K</h2>
 <p align="center">
-  💡 AI/ML Engineer in the Making • 🔐 Quantum Security Enthusiast • 🌾 Tech for Good Advocate
+  💡 ML Engineer in the Making • Gen AI entusiast  • 🌾 Tech for Full Stack
 </p>
 
 <p align="center">
@@ -23,17 +23,20 @@
 
 - 🎓 B.E. Artificial Intelligence and Machine Learning  
   &nbsp;&nbsp;&nbsp;&nbsp;@ *St. Joseph’s College of Engineering* | GPA: `8.32/10`
-- 🔍 Passionate about **AI for Social Good**, **Blockchain Security**, and **Post-Quantum Cryptography**
+- 🔍 Passionate about **AI **, **GEN AI**, and **DEVOLOPMENT**
 - 🧑‍💻 Innovator | Hackathon Winner | Frontend Developer | Deep Learning Explorer
 - 🌍 I love turning **bold ideas** into **smart, scalable prototypes**
 
 ---
 
 ## 💼 Experience
-
-### 🔹 Frontend Developer Intern — DLK Technologies (July 2024)
+### 🔹 ML Intern Intern — DLK Technologies (July 2024 - Present)
+- Devoloped Scalable systems , was in R&D trying different startegies in making recomondation system 
+- Delivered A subtle impact on making the chatbot 24/7 that was done using RAG architecture
+### 🔹 Frontend Developer Intern — DLK Technologies (July 2024 - Agust 2024)
 - Built responsive UI with HTML, CSS, JS
 - Delivered real-world web components for client-side apps
+  
 
 ---
 
@@ -54,6 +57,6 @@
 ```yaml
 Languages:        Python, Java
 Frontend:         HTML, CSS, JavaScript, React
-AI/ML:            Machine Learning, Deep Learning, CNN, U-Net
-Security:         Post-Quantum Cryptography, Blockchain
-Tools:            Git, Firebase, REST APIs, VS Code
+AI/ML:            Machine Learning, Deep Learning, GEN AI , RAG
+Security:         Post-Quantum Cryptography(Some cool stuffs learned due to interest)
+Tools:            Git, Firebase, REST APIs, VS Code , Firebase , cursor , 
