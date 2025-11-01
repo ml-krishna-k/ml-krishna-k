@@ -30,7 +30,7 @@
 ---
 
 ## 💼 Experience
-### 🔹 ML Intern Intern — DLK Technologies (July 2024 - Present)
+### 🔹 ML Intern Intern — EDUVERSITY  (Agust 2025 - Present)
 - Devoloped Scalable systems , was in R&D trying different startegies in making recomondation system 
 - Delivered A subtle impact on making the chatbot 24/7 that was done using RAG architecture
 ### 🔹 Frontend Developer Intern — DLK Technologies (July 2024 - Agust 2024)
