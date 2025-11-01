@@ -5,7 +5,7 @@
 
 <h2 align="center">👋 Hi, I'm Krishnaraj K</h2>
 <p align="center">
-  💡 ML Engineer in the Making • Gen AI entusiast  • 🌾 Tech for Full Stack
+  💡 ML Engineer in the Making • Gen AI Enthusiast  • 🌾 Tech for Full Stack
 </p>
 
 <p align="center">
